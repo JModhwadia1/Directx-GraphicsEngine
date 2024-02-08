@@ -1,0 +1,10 @@
+Mouse 1 – Wireframe mode
+Mouse 2 – Solid mode
+0 – LookAt Camera
+1 – LookTo Camera
+Up Arrow – Move forward with camera
+Down arrow – Move backwards with camera
+Right arrow – Move right with camera
+Left arrow – Move left with camera
+Left Shift  - Move up with camera
+Left Ctrl – Move down with camera
